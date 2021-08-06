@@ -1,13 +1,13 @@
 # 21-S2-2-C-Cinema
 
 ##### Team member:
-* u5922620    Jiawei Fan (Project Manager)
-* u6462980    Yuliang Ma (Spokesman)
-* u6935151    Yixian Qiu (Spokesman)
-* u7052525    Jiaye Li (Software Technician)
-* u6928271    Yuchen Wang (Software Technician)
-* u6965457    Tao Qu (Software Technician)
-* u6828507    Xiaoxiang Kong (Software Technician)
+* u5922620 &emsp; **Jiawei Fan** (Project Manager)
+* u6462980 &emsp; **Yuliang Ma** (Spokesman)
+* u6935151 &emsp; **Yixian Qiu** (Spokesman)
+* u7052525 &emsp; **Jiaye Li** (Software Technician)
+* u6928271 &emsp; **Yuchen Wang** (Software Technician)
+* u6965457 &emsp; **Tao Qu** (Software Technician)
+* u6828507 &emsp; **Xiaoxiang Kong** (Software Technician)
 
 ## Introduction
 Cinefly is a media-tech company aiming at developing the most advanced patented storytelling and file platform. The project team mainly focus on developing machine learning algorithms to extract data, such as the uses' name, daily activities, interests, spending habits, etc., from videos provided by Cinefly. Another function that the team may develop is to classify the data extrated into three categories: Demographic info., Phychographic info. and Behavior info. And then store this tagged information into a database.
