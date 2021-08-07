@@ -19,9 +19,9 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 *  [Time Schedule](09_Time_Schedule/)
 *  Risk Management
 
-   &emsp;  [Project Constraints](02-Constraints/)
+   &emsp;  [Project Constraints](02%20Constraints/)
    
-   &emsp;  [Quality and Risk Control](03-Quaility-and-Risk-Control/)
+   &emsp;  [Quality and Risk Control](03%20Quaility%20and%20Risk%20Control/)
 *  Project Logs  
 
    &emsp;  [Meeting Log](05_Meeting_Minutes/)
