@@ -17,6 +17,15 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 *  [USM](09_Time_Schedule/USM_cinema.jpg)
 *  [Resources](06_Resources/Tools_and_Resources.md)
 *  [Time Schedule](09_Time_Schedule/)
-*  [Meeting Log](05_Meeting_Minutes/)
-*  [Decision Log](04_Decision_Making/Decision_logs.md)
-*  [Work Log](10_Work_Log/Work_Log.md)
+*  Risk Management
+
+   &emsp;  [Project Constraints](02-Constraints/)
+   
+   &emsp;  [Quality and Risk Control](03-Quaility-and-Risk-Control/)
+*  Project Logs  
+
+   &emsp;  [Meeting Log](05_Meeting_Minutes/)
+   
+   &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
+   
+   &emsp;  [Work Log](10_Work_Log/Work_Log.md)
