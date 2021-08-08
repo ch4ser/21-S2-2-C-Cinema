@@ -14,6 +14,7 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 
 ## Project Documents
 *  [Team Charter](01_Team_Charter/)
+*  [SoW](07_Statement%20of%20Work/)
 *  [USM](09_Time_Schedule/USM_cinema.jpg)
 *  [Resources](06_Resources/Tools_and_Resources.md)
 *  [Time Schedule](09_Time_Schedule/)
