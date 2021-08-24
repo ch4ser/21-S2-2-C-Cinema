@@ -12,6 +12,8 @@
 ## Introduction
 Cinefly is a media-tech company aiming at developing the most advanced patented storytelling and file platform. The project team mainly focus on developing machine learning algorithms to extract data, such as the uses' name, daily activities, interests, spending habits, etc., from videos provided by Cinefly. Another function that the team may develop is to classify the data extrated into three categories: Demographic info., Phychographic info. and Behavior info. And then store this tagged information into a database.
 
+## Code repo:  https://github.com/ABlackPenny/CineflyProject
+
 ## Project Documents
 *  [Team Charter](01_Team_Charter/)
 *  [SoW](07_Statement%20of%20Work/)
@@ -34,4 +36,3 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 *  [Audit](Audit%201/)
 
 
-*  Code repo:  https://github.com/ABlackPenny/CineflyProject
