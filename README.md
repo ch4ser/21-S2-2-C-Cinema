@@ -12,11 +12,27 @@
 ## Introduction
 Cinefly is a media-tech company aiming at developing the most advanced patented storytelling and file platform. The project team mainly focus on developing machine learning algorithms to extract data, such as the uses' name, daily activities, interests, spending habits, etc., from videos provided by Cinefly. Another function that the team may develop is to classify the data extrated into three categories: Demographic info., Phychographic info. and Behavior info. And then store this tagged information into a database.
 
+## Code repo:  https://github.com/ABlackPenny/CineflyProject
+
 ## Project Documents
 *  [Team Charter](01_Team_Charter/)
+*  [SoW](07_Statement%20of%20Work/)
 *  [USM](09_Time_Schedule/USM_cinema.jpg)
 *  [Resources](06_Resources/Tools_and_Resources.md)
 *  [Time Schedule](09_Time_Schedule/)
-*  [Meeting Log](05_Meeting_Minutes/)
-*  [Decision Log](04_Decision_Making/Decision_logs.md)
-*  [Work Log](10_Work_Log/Work_Log.md)
+*  Risk Management
+
+   &emsp;  [Project Constraints](02%20Constraints/)
+   
+   &emsp;  [Quality and Risk Control](03%20Quaility%20and%20Risk%20Control/)
+*  Project Logs  
+
+   &emsp;  [Meeting Log](05_Meeting_Minutes/)
+   
+   &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
+   
+   &emsp;  [Work Log](10_Work_Log/Work_Log.md)
+   
+*  [Audit](Audit%201/)
+
+
