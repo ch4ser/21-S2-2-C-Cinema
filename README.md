@@ -35,6 +35,8 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
    
    &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
    
+   &emsp;  [Tutorial Agenda](11_Tutorial_Agenda/)
+   
 *  [Audit](Audit%201/)
 
 
