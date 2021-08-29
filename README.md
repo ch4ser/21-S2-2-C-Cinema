@@ -1,18 +1,22 @@
 # 21-S2-2-C-Cinema
 
 ##### Team member:
-* u5922620 &emsp; **Jiawei Fan** (Project Manager)
-* u6462980 &emsp; **Yuliang Ma** (Spokesman)
-* u6935151 &emsp; **Yixian Qiu** (Spokesman)
-* u7052525 &emsp; **Jiaye Li** (Software Technician)
-* u6928271 &emsp; **Yuchen Wang** (Software Technician)
-* u6965457 &emsp; **Tao Qu** (Software Technician)
-* u6828507 &emsp; **Xiaoxiang Kong** (Software Technician)
+
+| Name | E-mail | Role | Aeras of Expertise  |
+|-----------------|------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| Jiaye Li  | u7052525@anu.edu.au | Software Programmer |Data Science, NLP, Writing Skills |
+| Jiawei Fan | u5922620@anu.edu.au | Software Developer, Project Manager| Machine Learning, Computer Vision, NLP|
+| Yuliang Ma| u6462980@anu.edu.au | Software Programmer, Spokesperson | Programming, Writing Skills, Machine Learning |
+| Yuchen Wang | u6928271@anu.edu.au | Software Developer, Software Tester | Machine Learning, CV, Debugging |
+| Tao Qu | u6965457@anu.edu.au | Software Developer, Project Manager | Machine Learning, NLP, Programming |
+| Yixian Qiu | u6935151@anu.edu.au |Software Programmer, Spokesperson | Machine Learning, Data Science, NLP |
+| Xiaoxiang Kong | u6828507@anu.edu.au | Software Tester, Database Administrator | Machine Learning, Programming, Debugging |
 
 ## Introduction
 Cinefly is a media-tech company aiming at developing the most advanced patented storytelling and file platform. The project team mainly focus on developing machine learning algorithms to extract data, such as the uses' name, daily activities, interests, spending habits, etc., from videos provided by Cinefly. Another function that the team may develop is to classify the data extrated into three categories: Demographic info., Phychographic info. and Behavior info. And then store this tagged information into a database.
 
 ## Code repo:  https://github.com/ABlackPenny/CineflyProject
+## Group Management:  https://anucinema.atlassian.net/jira/
 
 ## Project Documents
 *  [Team Charter](01_Team_Charter/)
@@ -31,7 +35,7 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
    
    &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
    
-   &emsp;  [Work Log](10_Work_Log/Work_Log.md)
+   &emsp;  [Tutorial Agenda](11_Tutorial_Agenda/)
    
 *  [Audit](Audit%201/)
 
