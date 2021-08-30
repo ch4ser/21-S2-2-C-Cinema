@@ -24,6 +24,7 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 *  [USM](09_Time_Schedule/USM_cinema.jpg)
 *  [Resources](06_Resources/Tools_and_Resources.md)
 *  [Time Schedule](09_Time_Schedule/)
+*  [Research Report](12%20Documentations/)
 *  Risk Management
 
    &emsp;  [Project Constraints](02%20Constraints/)
@@ -34,6 +35,8 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
    &emsp;  [Meeting Log](05_Meeting_Minutes/)
    
    &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
+   
+   &emsp;  [Reflection Log](13%20Reflection/)
    
    &emsp;  [Tutorial Agenda](11_Tutorial_Agenda/)
    
