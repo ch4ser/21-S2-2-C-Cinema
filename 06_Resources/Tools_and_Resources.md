@@ -4,7 +4,9 @@
 * Zoom: used for weekly internal meetings and client meetings.
 * Git: used as a development platform for team coding and sharing.
 * Google Drive: (Backup tool)used as the storage space for project documents.
-#### Technical tools:
+#### Management tool:
+* Jira: Agile project management tool to create user stories and issues and distribute tasks across software team.
+#### Technical tool:
 * Pycharm: IDE used to develop the software.
 
 
