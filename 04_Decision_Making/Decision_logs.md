@@ -1,5 +1,9 @@
-<table style="width: 1000px;">
-
+<style>
+ table{
+    width:1400px;
+  }
+  
+</style>
 
 
 
