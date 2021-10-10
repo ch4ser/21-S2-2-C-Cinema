@@ -23,7 +23,7 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 
 
 ## 3. Project Documents
-*  Project Management 
+*  Project Administration 
 
    &emsp;  [Team Charter](01_Team_Charter/)
    
@@ -37,11 +37,15 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
    
    &emsp;  [Quality and Risk Control](03%20Quaility%20and%20Risk%20Control/)
    
+   &emsp;  [Future Scope](Future%20Scope/)
+   
 *  [Research Report](12%20Documentations/)
   
 *  Task Management 
 
    &emsp;  Jira Link: https://anucinema.atlassian.net/jira/
+   
+   &emsp;  [Work Log](10_Work_Log/)
    
    &emsp;  [Time Schedule](09_Time_Schedule/)
    
@@ -49,13 +53,19 @@ Cinefly is a media-tech company aiming at developing the most advanced patented 
 
    &emsp;  [Meeting Log](05_Meeting_Minutes/)   
    
-   &emsp;  [Decision Log](04_Decision_Making/Decision_logs.md)
+   &emsp;  [Decision Log](04_Decision_Making/)
    
    &emsp;  [Reflection Log](13%20Reflection/)
    
    &emsp;  [Tutorial Agenda](11_Tutorial_Agenda/)
    
-*  [Audit](Audit%201/)
+*  Audits and Videos
+
+   &emsp; [Audit 1](Audit%201/)
+   
+   &emsp; [Audit 2](Audit%202/)
+   
+   &emsp; [Showcase](14_Showcase_Video/)
 
 <br/> </br>
 
