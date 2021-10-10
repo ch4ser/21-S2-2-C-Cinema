@@ -1,3 +1,8 @@
+<table style="width: 1000px;">
+
+
+
+
 # Decision Making Log
 
 For full details behind project design and methodology, see [here](07_Handover Document/Documentation process.md)
