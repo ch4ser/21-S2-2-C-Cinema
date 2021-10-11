@@ -1,4 +1,4 @@
-# Work Log
+# Work Log（Decide to use jira instead)
 
 |   Week    |   Supposed goals        |   Achievements                      |   Reasons     |      Tasks|
 |------     |   -------               |   ---                               |   ----       |    ---      |
